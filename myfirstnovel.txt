@@ -1,5 +1,5 @@
 I am writing a big story. Let's say it is a novel.
 This is the first line of my novel. <end of day 1>
 ..
-This is my second chapter.. ha ha.. writing novels like this is easy. <end of day 2>
+This is my second chapter..I actually did not like my second chapter so much, so I decided to rewrite it.<end of day 3>
 ..
