@@ -1,0 +1,3 @@
+I am writing a big story. Let's say it is a novel.
+This is the first line of my novel. <end of day 1>
+..
